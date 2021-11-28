@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 /**
  * @brief Manage timing efficiently instead of using delays
  */
